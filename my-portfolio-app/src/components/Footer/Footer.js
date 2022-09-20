@@ -23,7 +23,8 @@ const Footer = () => {
 						/>
 						<div>
 							<p>Manchester.</p>
-							<p>United kingdom.</p>
+							<p>England.</p>
+							<p>United Kingdom.</p>
 						</div>
 					</div>
 					<div className='phone'>
