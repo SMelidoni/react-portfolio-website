@@ -18,7 +18,7 @@ const Footer = () => {
 				<div className='left'>
 					<div className='location'>
 						<FaHome
-							size={20}
+							size={18}
 							style={{ color: '#fff', marginRight: '2rem' }}
 						/>
 						<div>
@@ -30,7 +30,7 @@ const Footer = () => {
 					<div className='phone'>
 						<h4>
 							<FaPhone
-								size={20}
+								size={18}
 								style={{ color: '#fff', marginRight: '2rem' }}
 							/>
 							+447530380576
@@ -39,7 +39,7 @@ const Footer = () => {
 					<div className='email'>
 						<h4>
 							<FaMailBulk
-								size={20}
+								size={18}
 								style={{ color: '#fff', marginRight: '2rem' }}
 							/>
 							simone.melidoni@gmail.com
@@ -55,15 +55,15 @@ const Footer = () => {
 					</p>
 					<div className='social'>
 						<FaFacebook
-							size={30}
+							size={28}
 							style={{ color: '#fff', marginRight: '1rem' }}
 						/>
 						<FaTwitter
-							size={30}
+							size={28}
 							style={{ color: '#fff', marginRight: '1rem' }}
 						/>
 						<FaLinkedin
-							size={30}
+							size={28}
 							style={{ color: '#fff', marginRight: '1rem' }}
 						/>
 					</div>
